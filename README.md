@@ -47,3 +47,6 @@ Learn to Categorize or Categorize to Learn? Self-Coding for Generalized Category
 Discover and Align Taxonomic Context Priors for Open-world Semi-Supervised Learning (**NeruIPS 2023**) [[paper]](https://openreview.net/forum?id=zrLxHYvIFL) [[codes]](https://github.com/rain305f/TIDA)
 
 SelEx: Self-Expertise in Fine-Grained Generalized Category Discovery (**ECCV2024**) [[paper]](SelEx: Self-Expertise in Fine-Grained Generalized Category Discovery) [[codes]](https://github.com/SarahRastegar/SelEx)
+
+## MultiModal
+Textual Knowledge Matters: Cross-Modality Co-Teaching for Generalized Visual Class Discovery (**ECCV2024**) [[paper]](https://arxiv.org/abs/2403.07369) [[codes]](https://github.com/HaiyangZheng/TextGCD)
